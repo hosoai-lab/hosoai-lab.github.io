@@ -32,4 +32,3 @@ latest_posts:
 ![Robot1](../assets/img/robot1.jpg){: width="200" }
 ![Robot2](../assets/img/robot2.jpg){: width="200" }
 ![Robot3](../assets/img/robot3.jpg){: width="200" }
-

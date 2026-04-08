@@ -35,6 +35,8 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 {% if site.data.repositories.github_repos %}
 
 ## GitHub Repositories
